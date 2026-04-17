@@ -1,0 +1,12 @@
+{
+  "name": "qrcode4rp",
+  "version": "1.0.0",
+  "root": "com/fourjs/qrcode4rp",
+  "description": "Generate QR codes natively via a Genero Report (4RP) BARCODEBOX - no external API required",
+  "author": "mifo@4js.com",
+  "license": "MIT",
+  "genero": ">=4.0.0 <7.0.0",
+  "files": ["*.42m", "*.42f", "*.sch", "*.4rp"],
+  "docs": ["USERGUIDE.md"],
+  "programs": ["test_qrcode4rp"]
+}

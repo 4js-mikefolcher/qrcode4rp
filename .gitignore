@@ -1,0 +1,47 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+*.gar
+
+#Genero File extensions
+*.4pwcfg
+*.4pwdb
+*.4pwvs
+*.42?
+*.log
+.DS_Store
+*.4pdb
+.gst
+.vscode
+.github
+
+#Compilation Files
+*.err
+*.rdd
+
+#Directories
+bin/
+build/
+com/
+data/
+fonts/
+
+#Genero Package Files
+.mcp.json
+.fglpkg/
+*.lock
+CLAUDE.md
